@@ -38,6 +38,7 @@
           <div class="intro-lead-in">Welcome!</div>
           <div class="intro-heading text-uppercase">It's Nice To Meet You</div>
           <a class="btn btn-light btn-xl text-uppercase js-scroll-trigger" href="boardPageList">게시판</a>
+          <a class="btn btn-light btn-xl text-uppercase js-scroll-trigger" href="jfreeChart">통계</a>
         </div>
       </div>
     </header>
